@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+#head {
+    background-image: url("img/kyleferguson.jpg");
+    width: 828px;
+    height: 612px;
+    background-position: 0 0;
+    background-size: 20vw 100%;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 0 0%;
+    width: 30%;
+}
+
+.text {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 73%;
+    left: 2%;
+}
+
+#about {
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 0 0%;
+    width: 50%;
+    line-height: 1;
+    margin-top: 20px;
+}
+
+.motto {
+    font-size: 19px;
+    color: rgb(148, 147, 147);
+}
+
